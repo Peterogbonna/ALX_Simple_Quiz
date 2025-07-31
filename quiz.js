@@ -17,7 +17,7 @@ function checkAnswer() {
         feedbackElement.textContent = "Correct! Well done.";
     } else {
         // If the answer is incorrect
-        feedbackElement.textContent = "That's incorrect. Try agia!";
+        feedbackElement.textContent = "That is incorrect. Try agia!";
     }
 }
 
